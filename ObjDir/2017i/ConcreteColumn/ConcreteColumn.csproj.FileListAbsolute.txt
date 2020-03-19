@@ -1,0 +1,8 @@
+C:\TeklaAPITraining\ConcreteColumn\ConcreteColumn\bin\Debug\ConcreteColumn.dll.config
+C:\TeklaAPITraining\ConcreteColumn\ConcreteColumn\bin\Debug\ConcreteColumn.dll
+C:\TeklaAPITraining\ConcreteColumn\ConcreteColumn\bin\Debug\ConcreteColumn.pdb
+C:\TeklaAPITraining\ConcreteColumn\ObjDir\2017i\ConcreteColumn\ConcreteColumn.ConcreteColumnFrm.resources
+C:\TeklaAPITraining\ConcreteColumn\ObjDir\2017i\ConcreteColumn\ConcreteColumn.Properties.Resources.resources
+C:\TeklaAPITraining\ConcreteColumn\ObjDir\2017i\ConcreteColumn\ConcreteColumn.csproj.GenerateResource.cache
+C:\TeklaAPITraining\ConcreteColumn\ObjDir\2017i\ConcreteColumn\ConcreteColumn.dll
+C:\TeklaAPITraining\ConcreteColumn\ObjDir\2017i\ConcreteColumn\ConcreteColumn.pdb
