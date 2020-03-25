@@ -1,0 +1,5 @@
+A Tekla plugin that models a concrete column.
+
+I'm trying to follow the Tekla API programming example provided on the Tekla website.
+
+Instead of a .exe program I am trying to accomplish the same thing with a plugin.
