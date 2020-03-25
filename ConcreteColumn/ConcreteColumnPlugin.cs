@@ -25,12 +25,12 @@ namespace ConcreteColumn
         [StructuresField("RebarGrade")]
         public string RebarGrade;
         [StructuresField("RebarBendingRadius")]
-        public double[] RebarBendingRadius;
+        public string RebarBendingRadius;
         [StructuresField("FootingSize")]
         public string FootingSize;
     }
 
-    [Plugin("ConcreteColumnPlugin")] // Mandatory field which defines that the class is a plug-in-and stores the name of the plug-in to the system.
+    [Plugin("ConcreteColumn.ConcreteColumnPlugin")] // Mandatory field which defines that the class is a plug-in-and stores the name of the plug-in to the system.
     [PluginUserInterface("ConcreteColumn.ConcreteColumnFrm")] // Mandatory field which defines the user interface the plug-in uses - A windows form class
 
     class ConcreteColumnPlugin : PluginBase
@@ -45,7 +45,7 @@ namespace ConcreteColumn
         private string _rebarSize;
         private string _rebarGrade;
         private string _footingProfile;
-        private double[] _rebarBendingRadius;
+        private string _rebarBendingRadius;
         private double _footingSize;
         private string _materialString = "K30-2";
         private string _classString = "8";

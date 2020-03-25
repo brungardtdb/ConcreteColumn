@@ -195,7 +195,7 @@
             // RebarBendingRadius
             // 
             this.structuresExtender.SetAttributeName(this.RebarBendingRadius, "RebarBendingRadius");
-            this.structuresExtender.SetAttributeTypeName(this.RebarBendingRadius, "String");
+            this.structuresExtender.SetAttributeTypeName(this.RebarBendingRadius, "Double");
             this.structuresExtender.SetBindPropertyName(this.RebarBendingRadius, "Text");
             this.RebarBendingRadius.Location = new System.Drawing.Point(154, 260);
             this.RebarBendingRadius.Name = "RebarBendingRadius";
